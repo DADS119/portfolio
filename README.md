@@ -1,18 +1,22 @@
 # Markdown(md) 작성법
--------------------------------
+---
 
-
-### 1. 제목 크기 조절법
-
-
-
-
-* title
-> 안녕하세요 박지환 입니다.   
-> 만나서 반갑습니다.
-
-+ Data Analyst(Jihwan Park) portfolio
-
+## 1. 제목 크기 조절법
+> '#' 을 활용하여 제목 크기를 조절할 수 있다.
+```
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+```
+<br></br>
+## 2. Code Block 생성
+> code block을 사용하기 위해서는    
+> ''' python(사용언어)      
+> 텍스트   
+> '''
 
 ``` python
 import pandas as pd
