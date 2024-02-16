@@ -23,50 +23,50 @@
 ```xxx```<br>
 <br>
 
-※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/test)
+※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
  
 ## 2. 프로젝트 B
-* 문제정의
-* 수행역할
-* 기대효과 및 Lesson and Learned
-```python
-import pandas as pd
-import numpy as np
-df = pd.read_csv()
-```
-[바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/test)
+* 문제정의  
+```xxx```  
+* 수행역할  
+```xxx```  
+* 기대효과 및 Lesson and Learned  
+```xxx```<br>
+<br>
+
+※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
 
 ## 3. 프로젝트 C
-* 문제정의
-* 수행역할
-* 기대효과 및 Lesson and Learned
-```python
-import pandas as pd
-import numpy as np
-df = pd.read_csv()
-```
-[바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/test)
+* 문제정의  
+```xxx```  
+* 수행역할  
+```xxx```  
+* 기대효과 및 Lesson and Learned  
+```xxx```<br>
+<br>
+
+※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
 
 ## 4. 프로젝트 D
-* 문제정의
-* 수행역할
-* 기대효과 및 Lesson and Learned
-```python
-import pandas as pd
-import numpy as np
-df = pd.read_csv()
-```
-[바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/test)
+* 문제정의  
+```xxx```  
+* 수행역할  
+```xxx```  
+* 기대효과 및 Lesson and Learned  
+```xxx```<br>
+<br>
+
+※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
 
 ## 5. 프로젝트 E
-* 문제정의
-* 수행역할
-* 기대효과 및 Lesson and Learned
-```python
-import pandas as pd
-import numpy as np
-df = pd.read_csv()
-```
-[바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/test)
+* 문제정의  
+```xxx```  
+* 수행역할  
+```xxx```  
+* 기대효과 및 Lesson and Learned  
+```xxx```<br>
+<br>
+
+※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
 
 
