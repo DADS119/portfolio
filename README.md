@@ -2,9 +2,9 @@
 ---
 
 > 주요프로젝트
-1.[프로젝트A](#1.프로젝트A)
+1.[프로젝트A](#1.-프로젝트A)
 
-## 1.프로젝트A
+
 
 
 
@@ -31,3 +31,4 @@ import pandas as pd
 ```
 
 [link](https://github.com/DAjihwanPark/portfolio/tree/main/test)
+## 1. 프로젝트A
