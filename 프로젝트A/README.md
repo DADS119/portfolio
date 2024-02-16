@@ -8,7 +8,11 @@
 2) 최적의 감지조건의 규칙을 찾고 영업이익을 최대화하려 함 
 ```
 ## 분석 프로세스
-![process](https://github.com/DAjihwanPark/portfolio/assets/86225717/5983e105-8b75-464c-871c-773706870ec4)
+
+<p align="center">
+  <img src="https://github.com/DAjihwanPark/portfolio/assets/86225717/5983e105-8b75-464c-871c-773706870ec4)https://github.com/DAjihwanPark/portfolio/assets/86225717/5983e105-8b75-464c-871c-773706870ec4">
+</p>
+
 ## 기대효과
 
 ## Lesson and Learned
