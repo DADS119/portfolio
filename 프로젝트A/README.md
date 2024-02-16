@@ -10,7 +10,7 @@
 ## 분석 프로세스
 
 <p align="center">
-  <img src="https://github.com/DAjihwanPark/portfolio/assets/86225717/5983e105-8b75-464c-871c-773706870ec4)https://github.com/DAjihwanPark/portfolio/assets/86225717/5983e105-8b75-464c-871c-773706870ec4">
+  <img src="https://github.com/DAjihwanPark/portfolio/assets/86225717/412a43ee-ff9d-4ea6-a857-29793678941a">
 </p>
 
 ## 기대효과
