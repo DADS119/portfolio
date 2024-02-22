@@ -14,7 +14,8 @@
 * [5.프로젝트 E](#5-프로젝트-e)  
 ```프로젝트 E는 OOO을 위한 목표를 가지고 진행한 ML 프로젝트입니다.```
 
-## 1. 실시간 마케팅 반응고객 예측 및 감지조건 최적화
+## 1. 실시간 마케팅 반응고객 예측 및 감지조건 최적화  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DAjihwanPark/portfolio/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8A/02_notebook/S_PJT01_CODE.ipynb)
 * 문제정의  
 ```
 · 기존 실시간 캠페인의 비효율을 개선하고 영업이익을 향상시키고자 함
@@ -31,7 +32,8 @@
 ```
 
 ※ 프로젝트 상세 > [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)  
-※ Notebook > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ftEZwMAhQGh5d7eMYc9FSCYoBVzugeiq?usp=drive_link)
+ 
+
 ## 2. 프로젝트 B
 * 문제정의  
 ```xxx```  
