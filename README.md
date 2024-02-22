@@ -30,7 +30,8 @@
 · 대조군 대비 실험군 구매율 향상 효과 확인 및 정규 캠페인으로 운영 
 ```
 
-※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
+※ 프로젝트 상세 > [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)  
+※ Notebook > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/DAI-Lab/Cardea/](https://colab.research.google.com/drive/1pgJOawDMUy7r3dTVsk5Uat-eCWhE96Wn?usp=drive_link))
  
 ## 2. 프로젝트 B
 * 문제정의  
