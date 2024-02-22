@@ -31,8 +31,7 @@
 ```
 
 ※ 프로젝트 상세 > [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)  
-※ Notebook > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pgJOawDMUy7r3dTVsk5Uat-eCWhE96Wn)
-
+※ Notebook > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ftEZwMAhQGh5d7eMYc9FSCYoBVzugeiq?usp=drive_link)
 ## 2. 프로젝트 B
 * 문제정의  
 ```xxx```  
