@@ -35,6 +35,7 @@
  
 
 ## 2. 시계열 센서 데이터 EDA 및 Viz(시각화)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DAjihwanPark/portfolio/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8B/02_notebook/exmaple01.ipynb)
 * 문제정의  
 ```
 · 제조 공정에서 발생하는 다양한 센서 데이터를 분석하여 생산 효율성을 증가
