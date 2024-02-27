@@ -59,7 +59,7 @@
 ```
 <br>
 
-※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
+※ 프로젝트 상세 > [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트B)  
 
 ## 3. 프로젝트 C
 * 문제정의  
